@@ -9,4 +9,7 @@ function add2(...a){
     }
 
     return sum;
+
+function szoroz(a,b){
+    return a * b;
 }
